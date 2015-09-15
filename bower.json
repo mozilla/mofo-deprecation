@@ -1,0 +1,6 @@
+{
+  "name": "mofo-deprecation",
+  "dependencies": {
+    "makerstrap": "~0.2.7"
+  }
+}
