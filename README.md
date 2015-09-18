@@ -10,3 +10,7 @@ of deprecated services to.
 [`makerstrap`](https://github.com/mozilla/makerstrap) is included
 via [Bower](http://bower.io/), but the `bower_components` directory
 has been included here to make deployment simple.
+
+## Services Currently Showing The Notice
+* [events.webmaker.org](https://events.webmaker.org)
+* [welcome.webmaker.org](https://welcome.webmaker.org)
